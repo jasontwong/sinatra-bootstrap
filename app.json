@@ -1,0 +1,6 @@
+{
+  "name": "Sinatra Bootstrap Starter",
+  "description": "A barebones Sinatra app using Bootstrap and Slim",
+  "repository": "https://github.com/jasontwong/sinatra-bootstrap",
+  "keywords": ["sinatra", "bootstrap", "slim"]
+}
